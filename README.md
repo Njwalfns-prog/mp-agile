@@ -73,10 +73,11 @@ Tersedia **11 pengujian**: 6 untuk fitur presensi dan 5 untuk pencarian nama. Se
 ## Berkas proyek
 
 | Berkas | Isi |
-| --- | --- |
+| :--- | :--- |
 | [presensi.py](presensi.py) | Aplikasi terminal dan implementasi pencarian US8 |
 | [test_presensi.py](test_presensi.py) | Pengujian otomatis presensi dan pencarian |
 | [kanban-3d.html](kanban-3d.html) | Visualisasi Kanban 3D yang dipublikasikan melalui GitHub Pages |
 | [docs/kanban-sprint.gif](docs/kanban-sprint.gif) | Animasi tahapan sprint dari screenshot |
 | [KANBAN.md](KANBAN.md) | Detail kartu, alur pekerjaan, dan aturan Kanban |
-| [LAPORAN.md](LAPORAN_US8.md) | Laporan implementasi Agile |
+| [LAPORAN.md](LAPORAN.md) | Laporan implementasi Agile |
+| [![Demo Video](https://img.youtube.com/vi/WV9mHhcsZmU/0.jpg)](https://www.youtube.com/watch?v=WV9mHhcsZmU) | Video demo implementasi proyek |
