@@ -79,4 +79,4 @@ Tersedia **11 pengujian**: 6 untuk fitur presensi dan 5 untuk pencarian nama. Se
 | [kanban-3d.html](kanban-3d.html) | Visualisasi Kanban 3D yang dipublikasikan melalui GitHub Pages |
 | [docs/kanban-sprint.gif](docs/kanban-sprint.gif) | Animasi tahapan sprint dari screenshot |
 | [KANBAN.md](KANBAN.md) | Detail kartu, alur pekerjaan, dan aturan Kanban |
-| [LAPORAN.md](LAPORAN.md) | Laporan implementasi Agile |
+| [LAPORAN.md](LAPORAN_US8.md) | Laporan implementasi Agile |
