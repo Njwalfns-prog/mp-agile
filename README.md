@@ -80,4 +80,4 @@ Tersedia **11 pengujian**: 6 untuk fitur presensi dan 5 untuk pencarian nama. Se
 | [docs/kanban-sprint.gif](docs/kanban-sprint.gif) | Animasi tahapan sprint dari screenshot |
 | [KANBAN.md](KANBAN.md) | Detail kartu, alur pekerjaan, dan aturan Kanban |
 | [LAPORAN.md](LAPORAN.md) | Laporan implementasi Agile |
-| [![Demo Video](https://img.youtube.com/vi/WV9mHhcsZmU/0.jpg)](https://www.youtube.com/watch?v=WV9mHhcsZmU) | Video demo implementasi proyek |
+| [Video Demo YouTube](https://youtu.be/WV9mHhcsZmU) | Tonton video demonstrasi proyek |
